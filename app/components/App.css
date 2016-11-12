@@ -1,0 +1,8 @@
+body{
+	margin: 0 auto;
+}
+.app{
+	height:50px;
+	line-height: 50px;
+	background-color: #ccc;
+}
